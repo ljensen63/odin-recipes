@@ -1,0 +1,35 @@
+h1, h2, p {
+    text-align: center;
+}
+
+.pesto{
+    color: green;
+}
+
+img {
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol, ul {
+    border-bottom: 1px solid black;
+}
+
+.links{
+    text-align: center;
+}
+
+.links li{
+    display: inline;
+    vertical-align: middle;
+}
+
+.links a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 0.5em;
+    color: maroon;
+}
